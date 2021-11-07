@@ -1,0 +1,328 @@
+<object-stream>
+  <sample.LinkedNode>
+    <head>
+      <next>
+        <next>
+          <next>
+            <next>
+              <contents class="sample.Floor">
+                <floorNum>1</floorNum>
+                <securityLevel>high</securityLevel>
+                <temperature>35.0</temperature>
+                <aisleList>
+                  <numberOfContents>0</numberOfContents>
+                </aisleList>
+              </contents>
+            </next>
+            <contents class="sample.Floor">
+              <floorNum>2</floorNum>
+              <securityLevel>high</securityLevel>
+              <temperature>35.0</temperature>
+              <aisleList>
+                <head>
+                  <next>
+                    <next>
+                      <next>
+                        <next>
+                          <next>
+                            <next>
+                              <next>
+                                <next>
+                                  <next>
+                                    <next>
+                                      <next>
+                                        <next>
+                                          <next>
+                                            <next>
+                                              <next>
+                                                <contents class="sample.Aisle">
+                                                  <id>2A</id>
+                                                  <width>2</width>
+                                                  <depth>3</depth>
+                                                  <shelfList>
+                                                    <head>
+                                                      <next>
+                                                        <next>
+                                                          <next>
+                                                            <next>
+                                                              <contents class="sample.Shelf">
+                                                                <shelfNumber>2AA</shelfNumber>
+                                                                <palletList>
+                                                                  <head>
+                                                                    <next>
+                                                                      <next>
+                                                                        <contents class="sample.Pallet">
+                                                                          <palletID>2AA1</palletID>
+                                                                          <productDescription>的</productDescription>
+                                                                          <productQuantity>13</productQuantity>
+                                                                          <minimumStoreTemperature>3.0</minimumStoreTemperature>
+                                                                          <maximumStoreTemperature>5.0</maximumStoreTemperature>
+                                                                          <palletPositionWidth>1</palletPositionWidth>
+                                                                          <palletPositionDepth>2</palletPositionDepth>
+                                                                        </contents>
+                                                                      </next>
+                                                                      <contents class="sample.Pallet">
+                                                                        <palletID>2AA2</palletID>
+                                                                        <productDescription>的</productDescription>
+                                                                        <productQuantity>12</productQuantity>
+                                                                        <minimumStoreTemperature>3.0</minimumStoreTemperature>
+                                                                        <maximumStoreTemperature>4.0</maximumStoreTemperature>
+                                                                        <palletPositionWidth>1</palletPositionWidth>
+                                                                        <palletPositionDepth>3</palletPositionDepth>
+                                                                      </contents>
+                                                                    </next>
+                                                                    <contents class="sample.Pallet">
+                                                                      <palletID>2AA3</palletID>
+                                                                      <productDescription>4</productDescription>
+                                                                      <productQuantity>12</productQuantity>
+                                                                      <minimumStoreTemperature>4.0</minimumStoreTemperature>
+                                                                      <maximumStoreTemperature>5.0</maximumStoreTemperature>
+                                                                      <palletPositionWidth>3</palletPositionWidth>
+                                                                      <palletPositionDepth>4</palletPositionDepth>
+                                                                    </contents>
+                                                                  </head>
+                                                                  <numberOfContents>3</numberOfContents>
+                                                                </palletList>
+                                                              </contents>
+                                                            </next>
+                                                            <contents class="sample.Shelf">
+                                                              <shelfNumber>2AB</shelfNumber>
+                                                              <palletList>
+                                                                <numberOfContents>0</numberOfContents>
+                                                              </palletList>
+                                                            </contents>
+                                                          </next>
+                                                          <contents class="sample.Shelf">
+                                                            <shelfNumber>2AC</shelfNumber>
+                                                            <palletList>
+                                                              <numberOfContents>0</numberOfContents>
+                                                            </palletList>
+                                                          </contents>
+                                                        </next>
+                                                        <contents class="sample.Shelf">
+                                                          <shelfNumber>2AD</shelfNumber>
+                                                          <palletList>
+                                                            <numberOfContents>0</numberOfContents>
+                                                          </palletList>
+                                                        </contents>
+                                                      </next>
+                                                      <contents class="sample.Shelf">
+                                                        <shelfNumber>2AE</shelfNumber>
+                                                        <palletList>
+                                                          <numberOfContents>0</numberOfContents>
+                                                        </palletList>
+                                                      </contents>
+                                                    </head>
+                                                    <numberOfContents>5</numberOfContents>
+                                                  </shelfList>
+                                                </contents>
+                                              </next>
+                                              <contents class="sample.Aisle">
+                                                <id>2B</id>
+                                                <width>2</width>
+                                                <depth>3</depth>
+                                                <shelfList>
+                                                  <numberOfContents>0</numberOfContents>
+                                                </shelfList>
+                                              </contents>
+                                            </next>
+                                            <contents class="sample.Aisle">
+                                              <id>2C</id>
+                                              <width>2</width>
+                                              <depth>3</depth>
+                                              <shelfList>
+                                                <numberOfContents>0</numberOfContents>
+                                              </shelfList>
+                                            </contents>
+                                          </next>
+                                          <contents class="sample.Aisle">
+                                            <id>2D</id>
+                                            <width>2</width>
+                                            <depth>3</depth>
+                                            <shelfList>
+                                              <numberOfContents>0</numberOfContents>
+                                            </shelfList>
+                                          </contents>
+                                        </next>
+                                        <contents class="sample.Aisle">
+                                          <id>2E</id>
+                                          <width>2</width>
+                                          <depth>3</depth>
+                                          <shelfList>
+                                            <numberOfContents>0</numberOfContents>
+                                          </shelfList>
+                                        </contents>
+                                      </next>
+                                      <contents class="sample.Aisle">
+                                        <id>2F</id>
+                                        <width>2</width>
+                                        <depth>3</depth>
+                                        <shelfList>
+                                          <numberOfContents>0</numberOfContents>
+                                        </shelfList>
+                                      </contents>
+                                    </next>
+                                    <contents class="sample.Aisle">
+                                      <id>2G</id>
+                                      <width>2</width>
+                                      <depth>3</depth>
+                                      <shelfList>
+                                        <numberOfContents>0</numberOfContents>
+                                      </shelfList>
+                                    </contents>
+                                  </next>
+                                  <contents class="sample.Aisle">
+                                    <id>2H</id>
+                                    <width>2</width>
+                                    <depth>3</depth>
+                                    <shelfList>
+                                      <numberOfContents>0</numberOfContents>
+                                    </shelfList>
+                                  </contents>
+                                </next>
+                                <contents class="sample.Aisle">
+                                  <id>2I</id>
+                                  <width>2</width>
+                                  <depth>3</depth>
+                                  <shelfList>
+                                    <numberOfContents>0</numberOfContents>
+                                  </shelfList>
+                                </contents>
+                              </next>
+                              <contents class="sample.Aisle">
+                                <id>2J</id>
+                                <width>2</width>
+                                <depth>3</depth>
+                                <shelfList>
+                                  <numberOfContents>0</numberOfContents>
+                                </shelfList>
+                              </contents>
+                            </next>
+                            <contents class="sample.Aisle">
+                              <id>2K</id>
+                              <width>2</width>
+                              <depth>3</depth>
+                              <shelfList>
+                                <numberOfContents>0</numberOfContents>
+                              </shelfList>
+                            </contents>
+                          </next>
+                          <contents class="sample.Aisle">
+                            <id>2L</id>
+                            <width>2</width>
+                            <depth>3</depth>
+                            <shelfList>
+                              <numberOfContents>0</numberOfContents>
+                            </shelfList>
+                          </contents>
+                        </next>
+                        <contents class="sample.Aisle">
+                          <id>2M</id>
+                          <width>2</width>
+                          <depth>3</depth>
+                          <shelfList>
+                            <numberOfContents>0</numberOfContents>
+                          </shelfList>
+                        </contents>
+                      </next>
+                      <contents class="sample.Aisle">
+                        <id>2N</id>
+                        <width>2</width>
+                        <depth>3</depth>
+                        <shelfList>
+                          <numberOfContents>0</numberOfContents>
+                        </shelfList>
+                      </contents>
+                    </next>
+                    <contents class="sample.Aisle">
+                      <id>2O</id>
+                      <width>2</width>
+                      <depth>3</depth>
+                      <shelfList>
+                        <numberOfContents>0</numberOfContents>
+                      </shelfList>
+                    </contents>
+                  </next>
+                  <contents class="sample.Aisle">
+                    <id>2P</id>
+                    <width>2</width>
+                    <depth>3</depth>
+                    <shelfList>
+                      <numberOfContents>0</numberOfContents>
+                    </shelfList>
+                  </contents>
+                </head>
+                <numberOfContents>16</numberOfContents>
+              </aisleList>
+            </contents>
+          </next>
+          <contents class="sample.Floor">
+            <floorNum>3</floorNum>
+            <securityLevel>high</securityLevel>
+            <temperature>35.0</temperature>
+            <aisleList>
+              <numberOfContents>0</numberOfContents>
+            </aisleList>
+          </contents>
+        </next>
+        <contents class="sample.Floor">
+          <floorNum>4</floorNum>
+          <securityLevel>high</securityLevel>
+          <temperature>35.0</temperature>
+          <aisleList>
+            <head>
+              <next>
+                <next>
+                  <next>
+                    <contents class="sample.Aisle">
+                      <id>4A</id>
+                      <width>2</width>
+                      <depth>3</depth>
+                      <shelfList>
+                        <numberOfContents>0</numberOfContents>
+                      </shelfList>
+                    </contents>
+                  </next>
+                  <contents class="sample.Aisle">
+                    <id>4B</id>
+                    <width>2</width>
+                    <depth>3</depth>
+                    <shelfList>
+                      <numberOfContents>0</numberOfContents>
+                    </shelfList>
+                  </contents>
+                </next>
+                <contents class="sample.Aisle">
+                  <id>4C</id>
+                  <width>2</width>
+                  <depth>3</depth>
+                  <shelfList>
+                    <numberOfContents>0</numberOfContents>
+                  </shelfList>
+                </contents>
+              </next>
+              <contents class="sample.Aisle">
+                <id>4D</id>
+                <width>2</width>
+                <depth>3</depth>
+                <shelfList>
+                  <numberOfContents>0</numberOfContents>
+                </shelfList>
+              </contents>
+            </head>
+            <numberOfContents>4</numberOfContents>
+          </aisleList>
+        </contents>
+      </next>
+      <contents class="sample.Floor">
+        <floorNum>5</floorNum>
+        <securityLevel>high</securityLevel>
+        <temperature>35.0</temperature>
+        <aisleList>
+          <numberOfContents>0</numberOfContents>
+        </aisleList>
+      </contents>
+    </head>
+    <numberOfContents>5</numberOfContents>
+  </sample.LinkedNode>
+</object-stream>
